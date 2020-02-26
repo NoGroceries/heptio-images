@@ -1,2 +1,2 @@
 FROM gcr.io/heptio-images/contour:v0.6.1
-MAINTAINER wmh
+MAINTAINER wmh2
